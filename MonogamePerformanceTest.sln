@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonogamePerformanceTest", "MonogamePerformanceTest\MonogamePerformanceTest.csproj", "{2B53CBAB-9094-4FBC-92B3-CE127456E5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B53CBAB-9094-4FBC-92B3-CE127456E5D4}.Debug|x86.ActiveCfg = Debug|x86
+		{2B53CBAB-9094-4FBC-92B3-CE127456E5D4}.Debug|x86.Build.0 = Debug|x86
+		{2B53CBAB-9094-4FBC-92B3-CE127456E5D4}.Release|x86.ActiveCfg = Release|x86
+		{2B53CBAB-9094-4FBC-92B3-CE127456E5D4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6842C7-51A8-48EF-B47D-1AFE4673A8E2}
+	EndGlobalSection
+EndGlobal
